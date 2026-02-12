@@ -130,10 +130,3 @@ Compared to the original movie recommendation notebook, this enhanced version in
 - `actual_vs_predicted.png`: Plot comparing actual vs predicted ratings
 - `top_rated_books.png`: Bar chart of top-rated books
 
-## Contributing
-
-Feel free to contribute improvements, bug fixes, or new features. Please ensure that any changes maintain the system's performance and add appropriate documentation.
-
-## License
-
-This project is open-source and available under the MIT License.
